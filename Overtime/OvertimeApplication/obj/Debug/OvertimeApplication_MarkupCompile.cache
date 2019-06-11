@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Irfan\source\repos\OvertimeApplication\OvertimeApplication\obj\Debug\
+C:\Users\Irfan\source\repos\Git\Overtime\OvertimeApplication\obj\Debug\
 OvertimeApplication
 none
 false
 DEBUG;TRACE
-C:\Users\Irfan\source\repos\OvertimeApplication\OvertimeApplication\App.xaml
-11151548125
+C:\Users\Irfan\source\repos\Git\Overtime\OvertimeApplication\App.xaml
+3-1115327149
 
-9-2032983247
-161415287399
-MainWindow.xaml;
+7223573061
+181578573598
+UserInterfaceOvertime\HomeEmployee.xaml;UserInterfaceOvertime\HomeHRMS.xaml;UserInterfaceOvertime\MainWindow.xaml;
 
-True
+False
 
