@@ -52,13 +52,31 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\Application\ActivityOvertimeService.cs" />
+    <Compile Include="Service\Application\DataOvertimeService.cs" />
+    <Compile Include="Service\Application\EmployeeService.cs" />
+    <Compile Include="Service\Application\ParameterService.cs" />
+    <Compile Include="Service\Application\TypeOvertimeService.cs" />
+    <Compile Include="Service\IActivityOvertimeService.cs" />
+    <Compile Include="Service\IDataOvertimeService.cs" />
+    <Compile Include="Service\IEmployeeService.cs" />
+    <Compile Include="Service\IParameterService.cs" />
+    <Compile Include="Service\ITypeOvertimeService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Service\" />
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{36D29AB4-8954-4A50-B742-12071D0208C6}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{C0852CF9-3A69-4ED5-ACBE-499E28E2C070}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
