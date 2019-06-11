@@ -9,3 +9,12 @@ C:\Users\Irfan\source\repos\OvertimeApplication\Core\obj\Debug\Core.csproj.CoreC
 C:\Users\Irfan\source\repos\OvertimeApplication\Core\obj\Debug\Core.csproj.CopyComplete
 C:\Users\Irfan\source\repos\OvertimeApplication\Core\obj\Debug\Core.exe
 C:\Users\Irfan\source\repos\OvertimeApplication\Core\obj\Debug\Core.pdb
+E:\OA\OvertimeApplication\Overtime\Core\bin\Debug\Core.exe.config
+E:\OA\OvertimeApplication\Overtime\Core\bin\Debug\Core.exe
+E:\OA\OvertimeApplication\Overtime\Core\bin\Debug\Core.pdb
+E:\OA\OvertimeApplication\Overtime\Core\bin\Debug\EntityFramework.dll
+E:\OA\OvertimeApplication\Overtime\Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\OA\OvertimeApplication\Overtime\Core\bin\Debug\EntityFramework.xml
+E:\OA\OvertimeApplication\Overtime\Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\OA\OvertimeApplication\Overtime\Core\obj\Debug\Core.exe
+E:\OA\OvertimeApplication\Overtime\Core\obj\Debug\Core.pdb

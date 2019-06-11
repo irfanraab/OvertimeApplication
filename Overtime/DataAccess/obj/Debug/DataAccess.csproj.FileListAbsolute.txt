@@ -13,3 +13,17 @@ C:\Users\Irfan\source\repos\OvertimeApplication\DataAccess\obj\Debug\DataAccess.
 C:\Users\Irfan\source\repos\OvertimeApplication\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\Irfan\source\repos\OvertimeApplication\DataAccess\obj\Debug\DataAccess.exe
 C:\Users\Irfan\source\repos\OvertimeApplication\DataAccess\obj\Debug\DataAccess.pdb
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\DataAccess.exe.config
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\DataAccess.exe
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\DataAccess.pdb
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\Core.exe
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\EntityFramework.dll
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\Core.pdb
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\EntityFramework.xml
+E:\OA\OvertimeApplication\Overtime\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\OA\OvertimeApplication\Overtime\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\OA\OvertimeApplication\Overtime\DataAccess\obj\Debug\DataAccess.Migrations.OvertimeMigration.resources
+E:\OA\OvertimeApplication\Overtime\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+E:\OA\OvertimeApplication\Overtime\DataAccess\obj\Debug\DataAccess.exe
+E:\OA\OvertimeApplication\Overtime\DataAccess\obj\Debug\DataAccess.pdb
